@@ -1,6 +1,9 @@
 # JSP and Servlet Database CRUD Application
 # Java Server Pages ve Servlets Veritabanı Okuma / Yazma Uygulaması
 Turkish:
+
+Eclipse ile maven projesini içe aktarmanın yolu: File > Import > Maven > Existing Maven Project Browse > İlgili klasörün seçimi > Tamam!
+
 Çalışan takip demo projesidir. 
 MVC tasarım şablonu içerir. 
 Temel CRUD operasyonları ile yapılmıştır.
