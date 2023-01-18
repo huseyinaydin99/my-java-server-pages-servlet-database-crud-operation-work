@@ -13,6 +13,8 @@ It is an employee tracking demo project.
 Includes MVC design template.
 Made with basic CRUD operations.
 
+![Java Server Pages](jsp.png "JSP")
+
 ## Kullanılan araçlar ve teknolojiler:
 
 1. JSP
