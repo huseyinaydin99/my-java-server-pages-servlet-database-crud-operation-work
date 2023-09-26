@@ -1,5 +1,5 @@
-# JSP and Servlet Database CRUD Application
-# Java Server Pages ve Servlets Veritabanı Okuma / Yazma Uygulaması
+### JSP and Servlet Database CRUD Application
+### Java Server Pages ve Servlets Veritabanı Okuma / Yazma Uygulaması
 Turkish:
 
 Eclipse ile maven projesini içe aktarmanın yolu: File > Import > Maven > Existing Maven Project Browse > İlgili klasörün seçimi > Tamam!
@@ -15,7 +15,7 @@ Made with basic CRUD operations.
 
 ![Java Server Pages](jsp.png "JSP")
 
-## Kullanılan araçlar ve teknolojiler:
+### Kullanılan araçlar ve teknolojiler:
 
 1. JSP
 2. Servlets
@@ -25,7 +25,7 @@ Made with basic CRUD operations.
 6. Eclipse Oxygen / Kullandığımız IDE.
 7. Apache tomcat 8 / Tomcat Application Server / Tomcat uygulama sunucusu.
 
-## Kurulum adımları.
+### Kurulum adımları.
 
 1.Projeyi kendi bilgisayarına çek / Clone the application
 
